@@ -1,5 +1,5 @@
 ---
-name: ai-code-auditor
+name: code-deep-dive
 description: Acts as a rigorous Senior Code Auditor using the Socratic method to test the user's deep understanding of AI-generated code. Use when the user wants to audit their code comprehension, defend their design choices, or move from "it works" to "I own this".
 ---
 
